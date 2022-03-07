@@ -1,3 +1,5 @@
 Line1
 Line 2 local
 Line 3
+This line created in local branch
+5
